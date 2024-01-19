@@ -35,3 +35,17 @@
 .imagetwo{
     padding: 1.5em 0;
 }
+.border{
+    border: 1em;
+}
+.imagethree{
+    width: 65%;
+}
+.wordings{
+    background-color: white;
+    color: black;
+    margin-top: -0.6em;
+    font-size: 12px;
+    width: 65%;
+    align-items: center;
+}
