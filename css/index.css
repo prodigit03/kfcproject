@@ -25,8 +25,8 @@
 }
 .ordernow{
     text-decoration: none;
-    border: 2px solid red;
-    background-color: red;
+    border: 2px solid #bc0000;
+    background-color: #bc0000;
     color: white;
     font-weight: 500;
     padding: .2em 1.2em;
@@ -34,9 +34,6 @@
 }
 .imagetwo{
     padding: 1.5em 0;
-}
-.border{
-    border: 1em;
 }
 .imagethree{
     width: 65%;
@@ -48,4 +45,18 @@
     font-size: 12px;
     width: 65%;
     align-items: center;
+    padding-left: 0.8em;
+}
+.cart{
+    padding: 1em 0;
+    text-align: center;
+}
+.addtocart{
+    text-decoration: none;
+    border: 2px solid #bc0000;
+    background-color: #bc0000;
+    color: white;
+    font-weight: 500;
+    padding: .2em 1.2em;
+    border-radius: 0.5em;
 }
